@@ -1,4 +1,4 @@
-![logo](https://github.com/pradyumn48/pradyumn48/blob/main/Janhvi_Github_Banner.png)
+![logo](https://github.com/pradyumn48/pradyumn48//raw.githubusercontent.com/JanhviPatwa/JanhviPatwa/main/Janhvi_Github_Banner.png.)
 <h1 align="center">Hi 👋, I'm Janhvi Patwa</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
 
